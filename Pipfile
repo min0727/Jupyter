@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyter = "*"
 self = "*"
+matplotlib = "*"
+japanize_matplotlib = "*"
 
 [dev-packages]
 
